@@ -13,3 +13,6 @@ Repositorio del curso de Métodos estadísticos Agosto 2025 del programa de inge
  + Crear version control
  + Baseas para uso eficiente de R
  + Modificacion de readme
+
+ + # PROYECTO INTEGRADOR DE APRENDIZAJE (PIA)
+ + En este repositorio estan todas las actividades del curso de Metodos EStadisticos del perido Agosto-Diciembre 2025 de 3er semestre
